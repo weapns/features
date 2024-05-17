@@ -1,0 +1,65 @@
+- A BOOLEAN IS A TRUE/FALSE, MEANING YOU CAN ENABLE / DISABLE THE FEATURES
+
+**・Silent Aim (Boolean) ; Features**
+・Custom HitChance
+・Custom KeyBind
+・Notifications 
+・Closest Hitpart / Nearest point (boolean)
+
+
+
+**・Camera Lock (Boolean) ; Features**
+・Third person / First person, **meaning you can disable first person cam or third person camlock.**
+・Custom Keybind
+・Custom Smoothness styles
+・Smoothness (Boolean) (Smoothness)
+・Shake (boolean) Direction (X,Y,Z)
+・Closest Hitpart / Nearest point (boolean)
+・Checks, **Unlocks off of players or doesn't lock on them**, If typing, or If reloading, Wall Check, Crew Check, Knock Check, Player Check. (booleans)
+
+
+**・Trigger Bot (Boolean) ; Features**
+・Custom delay
+・Custom toggle on/off keybind
+・Notifications (boolean)
+・Silent aim built in, so you don't miss a shot
+
+**・FoV ; Features**
+・Camera Lock: Visible (boolean), Radius (Use: boolean, Amount: 1), Stick (boolean)
+・Silent Aim: Visible (boolean), Radius (Use: boolean, Amount: 1), Stick (boolean)
+・Weapon FoV: Enabled (boolean), **All supported guns below**
+・Double Barrel (1),
+・Revolver (1),
+・Shotgun (1),
+・Tactical Shotgun (1),
+・Smg (1),
+・Silencer (1),
+・P90 (1),
+・Ak47 (1),
+・Drum Gun (1)
+
+
+**・Settings for camlock/silentaim**
+・Resolver (boolean)
+・Anti Aim Viewer (boolean)
+・No Ground Shots (boolean)
+・Anti Curve (boolean)
+
+**・Checks for camlock/silentaim**
+・Player Check (boolean)
+・Wall Check (boolean)
+・Crew Check (boolean)
+・Knock Check (boolean)
+
+
+**・Misc options**
+
+・Fake Lag Spike (boolean) ; Keybind ('Enum.Keycode.Keybind') Duration ('Duration')
+・Fake Macro (boolean) ; Keybind ('Enum.Keycode.KeyboardOrMouse') Hold Key (boolean) Mode ('1') or '2', TP FAKE MACRO / FP FAKE MACRO 
+・Frame Skip (boolean) ; Keybind ('Enum.Keycode.Keybind') Use Keybind (boolean) Notification (boolean)
+・Auto 360 (boolean) ; Keybind ('Enum.Keycode.Keybind') Speed (FrameSkipSpeed)
+・Memory Spoofer (boolean) ; Start (1271) End (1684) Speed (1.24) -- This spoofs your Memory, this is for closet cheating mainly.
+・Auto Inventory sorter (boolean) ; Keybind(Enum.Keycode.Keybind) -- Self explainatory
+・Animation keybinds (Supports all animations)
+・Chat Commands (boolean) -- self explainatory, just adds commands for options.
+
